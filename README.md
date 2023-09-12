@@ -18,7 +18,7 @@ Pretende simular la necesidad de una Cafetería que necesita por un lado organiz
 Se agrega un nombre y un logo simulado con https://app.brandmark.io/v3/
  
 Este proyecto presenta un Diagrama de flujo, un pseudocódigo que simula la lista de precios de descuentos y te envía el pedido Además, se teoriza el proceso de Gestión del proyecto con los métodos agiles Kanban y scrum.
-  REPOSITORIO GITHUB: 
+  REPOSITORIO GITHUB: https://github.com/cabreramiriam/tpfullcoders.git
 
  Tablero de Kanban hecho en trello https://trello.com/b/YlOtUZEf/cafeteria-ateneo
 listado de tareas 
